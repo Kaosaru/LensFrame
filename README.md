@@ -4,10 +4,6 @@
 
 Welcome to the LensFrame repository, your gateway to a revolutionary Augmented Reality (AR) experience for trying on virtual glasses! LensFrame allows users to seamlessly blend the virtual and real worlds, enabling them to explore and try on a diverse range of glasses styles from the comfort of their own space.
 
-LensFrame: Augmented Reality Glasses Try-On App
-
-Welcome to the LensFrame repository, your gateway to a revolutionary Augmented Reality (AR) experience for trying on virtual glasses! LensFrame allows users to seamlessly blend the virtual and real worlds, enabling them to explore and try on a diverse range of glasses styles from the comfort of their own space.
-Features
 
     Virtual Try-On Brilliance: Immerse yourself in the world of LensFrame as the app overlays stunning virtual glasses onto your face in real-time. Experience the future of eyewear shopping from the palm of your hand.
 
