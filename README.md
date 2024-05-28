@@ -24,7 +24,8 @@ Contributions 💕
 
 We're thrilled to invite contributions from the open-source community! Whether you're a developer, designer, or AR aficionado, share your passion by submitting bug reports, feature requests, or pull requests. Let's shape the future of AR glasses together!
 
-License
-LensFrame is school project
+License:
+
+LensFrame is a non-profit school project
 
 Thank you for discovering LensFrame, where the fusion of technology and fashion reshapes the way we experience eyewear. For any inquiries or feedback, don't hesitate to connect with us.
